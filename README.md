@@ -8,3 +8,6 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on VariantWise
 - 🌱 I’m currently learning ReactJS and Machine Learning
+- 📫 How to reach me: abhinavpatnaik2@gmail.com
+- ⚡ Fun fact: I m big time into Photography
+
