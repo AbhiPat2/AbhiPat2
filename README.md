@@ -4,3 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhiPat2&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+## 🚀 About Me
+- 🔭 I’m currently working on VariantWise
+- 🌱 I’m currently learning ReactJS and Machine Learning
