@@ -25,10 +25,5 @@
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 
 
-## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiPat2&theme=dark&hide_border=true&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhiPat2&theme=dark&hide_border=true" />
-</p>
 
